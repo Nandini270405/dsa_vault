@@ -1,6 +1,10 @@
 # dsa_vault
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
+## 📊 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/MCQnyCdzpo?theme=tokyonight&font=Karma&ext=heatmap)](https://leetcode.com/u/MCQnyCdzpo/)
+
 
 # 🚀 Placement Prep 2026
 
