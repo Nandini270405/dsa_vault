@@ -1,45 +1,24 @@
-# dsa_vault
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 DSA Vault
+
+Hi, I'm NAN 👋  
+This repository contains my DSA preparation journey for placements and coding interviews.
+
+---
 
 ## 📊 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/MCQnyCdzpo?theme=tokyonight&font=Karma&ext=heatmap)](https://leetcode.com/u/MCQnyCdzpo/)
 
-
-# 🚀 Placement Prep 2026
-
-Hi, I'm NAN 👋  
-This repository contains my DSA and problem-solving journey for placements and interviews.
-
-## 📌 Platforms
-- LeetCode
-- NeetCode
-- SQL practice
+---
 
 ## 🧠 Topics Covered
-- Arrays & Hashing
-- Sliding Window
+- Arrays
 - Binary Search
 - Trees
 - Graphs
 - Dynamic Programming
-- SQL
 
-## 🎯 Goal
-Building strong problem-solving skills for internships and placements.
-
-## ⚡ Languages Used
+## ⚙️ Languages
 - Python
 - Java
 - SQL
-
-## 📈 Progress
-| Topic | Status |
-|------|------|
-| Arrays | 🟡 |
-| Trees | ⚪ |
-| Graphs | ⚪ |
-| DP | ⚪ |
-
----
-“Consistency compounds quietly.” 🌱
