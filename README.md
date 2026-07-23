@@ -30,6 +30,7 @@ This repository contains my DSA preparation journey for placements and coding in
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nandini270405/dsa_vault/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Nandini270405/dsa_vault/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Nandini270405/dsa_vault/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -46,4 +47,8 @@ This repository contains my DSA preparation journey for placements and coding in
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nandini270405/dsa_vault/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Nandini270405/dsa_vault/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
