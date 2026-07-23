@@ -22,3 +22,15 @@ This repository contains my DSA preparation journey for placements and coding in
 - Python
 - Java
 - SQL
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nandini270405/dsa_vault/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nandini270405/dsa_vault/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
