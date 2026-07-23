@@ -29,8 +29,21 @@ This repository contains my DSA preparation journey for placements and coding in
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nandini270405/dsa_vault/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Nandini270405/dsa_vault/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nandini270405/dsa_vault/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Nandini270405/dsa_vault/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Nandini270405/dsa_vault/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Nandini270405/dsa_vault/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
