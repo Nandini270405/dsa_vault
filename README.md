@@ -51,4 +51,12 @@ This repository contains my DSA preparation journey for placements and coding in
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nandini270405/dsa_vault/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Nandini270405/dsa_vault/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Nandini270405/dsa_vault/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
