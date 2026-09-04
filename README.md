@@ -56,6 +56,7 @@ This repository contains my DSA preparation journey for placements and coding in
 | ------- |
 | [0001-two-sum](https://github.com/Nandini270405/dsa_vault/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Nandini270405/dsa_vault/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nandini270405/dsa_vault/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,5 @@ This repository contains my DSA preparation journey for placements and coding in
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nandini270405/dsa_vault/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nandini270405/dsa_vault/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
