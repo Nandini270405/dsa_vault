@@ -55,8 +55,17 @@ This repository contains my DSA preparation journey for placements and coding in
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nandini270405/dsa_vault/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Nandini270405/dsa_vault/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nandini270405/dsa_vault/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nandini270405/dsa_vault/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nandini270405/dsa_vault/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
