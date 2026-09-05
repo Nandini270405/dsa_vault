@@ -70,4 +70,8 @@ This repository contains my DSA preparation journey for placements and coding in
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nandini270405/dsa_vault/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nandini270405/dsa_vault/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Nandini270405/dsa_vault/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
